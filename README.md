@@ -1,2 +1,2 @@
 # Addition
-Addition of two given numbers
+Addition of 2 numbers, which passed as an input.
